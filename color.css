@@ -1,0 +1,27 @@
+body {
+  background: url(https://hips.hearstapps.com/hmg-prod/images/bright-forget-me-nots-royalty-free-image-1677788394.jpg) ;
+  background-size: cover;
+}
+.bold-text{
+  font-weight: normal;
+}
+.processing {
+  background-color: orange; 
+  color: rgb(0, 0, 0);
+}
+.claimed {
+  background-color: green; 
+  color: rgb(0, 0, 0)
+}
+.cancelled{
+  background-color: red; 
+  color: rgb(0, 0, 0);
+}
+.head{
+  text-align: center;
+  color: rgb(90, 110, 110) ;
+}
+.header{
+  text-align: center; 
+  color: white;
+}
